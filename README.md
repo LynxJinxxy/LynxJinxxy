@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 744 Contributions in the Year 2022
+> 🏆 741 Contributions in the Year 2022
  > 
 > 📦 416 Bytes Used in GitHub's Storage 
  > 
@@ -66,12 +66,6 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,11 +77,7 @@ PHP                      1 repo              ████████░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/LynxJinxxy/LynxJinxxy/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/08/2022 05:33:26 UTC
+ Last Updated on 09/08/2022 05:36:58 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
