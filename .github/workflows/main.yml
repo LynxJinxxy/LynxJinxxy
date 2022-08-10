@@ -2,8 +2,8 @@ name: Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 00 & 12 UTC
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
