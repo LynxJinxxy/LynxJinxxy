@@ -55,14 +55,13 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               6 repos             █████████████████░░░░░░░░   66.67 % 
+GLSL                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-GLSL                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 08/11/2023 12:13:19 UTC
+ Last Updated on 09/11/2023 00:33:08 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
