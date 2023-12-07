@@ -18,6 +18,39 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.2%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                620 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+🌆 Daytime                2046 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌃 Evening                5345 commits        █████████████░░░░░░░░░░░░   50.88 % 
+🌙 Night                  2494 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1971 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Tuesday                  2257 commits        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Wednesday                1991 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Thursday                 1782 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Friday                   1965 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Saturday                 179 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Sunday                   360 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -29,6 +62,6 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 12:14:33 UTC
+ Last Updated on 07/12/2023 00:34:38 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
