@@ -3,7 +3,7 @@ name: Readme
 on:
   schedule:
     # Runs at 00 & 12 UTC
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
