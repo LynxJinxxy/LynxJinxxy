@@ -45,14 +45,14 @@ Sunday                   531 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               6 hrs 55 mins       ███████████████████░░░░░░   74.07 % 
-JavaScript               2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               8 hrs 32 mins       ██████████████████░░░░░░░   71.18 % 
+JavaScript               3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 9 hrs 21 mins       █████████████████████████   100.00 % 
+PhpStorm                 12 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -68,6 +68,6 @@ Handlebars               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2025 06:11:53 UTC
+ Last Updated on 27/06/2025 12:13:16 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
