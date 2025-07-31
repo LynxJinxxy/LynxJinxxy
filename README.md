@@ -45,10 +45,11 @@ Sunday                   532 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 3 mins         █████████████████████████   98.69 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -64,6 +65,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 06:12:24 UTC
+ Last Updated on 31/07/2025 12:12:46 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
