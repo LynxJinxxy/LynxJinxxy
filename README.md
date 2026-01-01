@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.79%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -45,14 +45,14 @@ Sunday                   1264 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.23 % 
-JavaScript               3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-.env file                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+TypeScript               5 hrs 47 mins       ██████████████░░░░░░░░░░░   54.82 % 
+JavaScript               3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+.env file                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-PhpStorm                 9 hrs 22 mins       █████████████████████████   100.00 % 
+PhpStorm                 10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -68,6 +68,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 06:17:39 UTC
+ Last Updated on 01/01/2026 12:18:49 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
