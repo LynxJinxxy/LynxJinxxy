@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="LynxJinx" width="100%" />
 
-# Hi, LynxJinx 🐾
+# LynxJinx 🐾
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=620&height=40&color=C9A7FF&lines=Founder+%40+Jinxxy+%E2%9C%A6+MyOshi+%E2%9C%A6+VBashi;biz+%7C+dev+%7C+vr+%26+vtuber+tech" />
